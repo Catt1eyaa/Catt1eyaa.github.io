@@ -1,0 +1,39 @@
+avatar: /images/avatar.jpg
+sidebar_background: /images/background.png
+accent_color: '#496b8c'
+accent_soft: '#dce8f0'
+brand_name: Cattleya's Blog
+brand_subtitle: 只要闭上双眼的话
+sidebar_note: 这里无论何时都有那从未变过的景色伴在我身旁
+hero:
+  title: ''
+  kicker: ''
+  description: ''
+excerpt_length: 56
+menu:
+  - name: 首页
+    path: /
+  - name: 归档
+    path: /archives/
+  - name: 分类
+    path: /categories/
+  - name: 标签
+    path: /tags/
+  - name: 关于
+    path: /about/
+social:
+  - name: GitHub
+    url: https://github.com/Catt1eyaa
+  - name: E-Mail
+    url: mailto:perrynx@outlook.com
+footer:
+  text: 想多制造些回忆
+  support:
+    enable: false
+    title: Your Sponsor
+    link: https://example.com/
+    logo: ''
+    prefix: Supported by
+    suffix: ''
+license_name: CC BY-NC 4.0
+license_url: https://creativecommons.org/licenses/by-nc/4.0/deed.zh-hans
